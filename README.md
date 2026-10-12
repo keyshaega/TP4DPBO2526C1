@@ -2,12 +2,11 @@
 
 ## Janji
 
-Saya Keysha Ega Magani dengan NIM 2507925 mengerjakan tugas ini dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Keysha Ega Magani dengan NIM 2507925 mengerjakan tugas praktikum 4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## 🎓 PeopleData — Student Data Management
 
-**PeopleData** merupakan aplikasi desktop sederhana untuk mengelola data mahasiswa yang dibuat menggunakan **Java Swing** sebagai antarmuka grafis (*Graphical User Interface*).
-
+**PeopleData** merupakan aplikasi desktop sederhana untuk mengelola data mahasiswa yang dibuat menggunakan **Java Swing** sebagai graphical user interface
 Program ini dibuat untuk memenuhi tugas praktikum mata kuliah Desain dan Pemrograman Berorientasi Objek.
 
 Aplikasi ini memungkinkan pengguna untuk menambahkan, melihat, mengubah, dan menghapus data mahasiswa melalui antarmuka yang interaktif. Data mahasiswa ditampilkan dalam bentuk tabel agar lebih mudah dibaca dan dikelola.
